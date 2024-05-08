@@ -3017,7 +3017,7 @@ https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:59_premium.smil
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://focus4ca.com/
-https://n4.dramaticreadings.com:999/hls/dsportshd.m3u8?md5=2bDnSfjTBMuQ6rT0rlX0yg&expires=1715214956
+https://n9.dramaticreadings.com:999/hls/dsportshd.m3u8?md5=KSPN6__SbN3rFxtyDY6WpQ&expires=1715219312
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
