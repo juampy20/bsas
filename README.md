@@ -1,6 +1,7 @@
 #EXTM3U
 
-
+#EXTINF:-1 tvg-logo="-" group-title="🏀⚽⚾🏈🥎GUIA DE PROGRAMACION🏀⚽⚾🏈🥎",GUIA
+https://cdnhd.iblups.com/hls/wCdPAY5bmT.m3u8
 
 ----------------4g----------
 --------------------------
