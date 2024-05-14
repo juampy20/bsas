@@ -1,8 +1,9 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="-" group-title="GUIA DE EVENTOS",GUIA
-https://stream.kick.com/ivs/v1/196233775518/iQ63N98btHWQ/2024/5/14/0/8/gL6rzp15bf3f/media/hls/720p30/playlist.m3u8
+#EXTINF:-1 tvg-logo="-" group-title="✅✅✅ GUIA DE EVENTOS",✅✅✅ GUIA  1
+https://stream.kick.com/ivs/v1/196233775518/U6sx3O8ZodqQ/2024/5/14/16/3/Yl0gtZ87EhyQ/media/hls/720p30/1.ts
+
 
 
 ----------------4g----------
