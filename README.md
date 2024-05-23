@@ -1,6 +1,25 @@
 #EXTM3U
 
 
+--------------peru--------
+-------------------------
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/Latina_TV_logo_en_pantalla_2019-.svg/revision/latest/scale-to-width-down/250?cb=20220528224516&path-prefix=es" group-title="🇵🇪 PERU",LATINA
+https://live-evg4.tv360.bitel.com.pe/bitel/latina/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/1200px-Am%C3%A9rica_Televisi%C3%B3n.svg.png" group-title="🇵🇪 PERU",AMERICA TV
+https://live-evg4.tv360.bitel.com.pe/bitel/americatv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/TV_Per%C3%BA_logo_corto_2019.svg/revision/latest/scale-to-width-down/250?cb=20200514204950" group-title="🇵🇪 PERU",TV PERU
+https://live-evg4.tv360.bitel.com.pe/bitel/tvperu/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/ATV_logo_2012-2014.svg/revision/latest/scale-to-width-down/200?cb=20230628235433&path-prefix=es" group-title="🇵🇪 PERU",ATV
+https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Logoexitosa.png/800px-Logoexitosa.png" group-title="🇵🇪 PERU",EXITOSA TV
+https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e3243c/index.fmp4.m3u8
+
+
 
 ----------directv sports-----------
 -------------------------------------
