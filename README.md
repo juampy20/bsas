@@ -1393,6 +1393,10 @@ CINECANAL
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="🛟 CINE", 125 CINECANAL (🇦🇷) fw
 https://cdn.cvattv.com.ar/live/c3eds/CinecanalHD/SA_Live_dash_enc_2A/CinecanalHD.mpd
 
+#EXTINF:-1,group-title="GRAN HERMANO VIP", ES - Gran Hermano VIP 24h
+http://totalplay.site:80/silvana1941/aTxg5c4TuV/426867.m3u8
+#EXTINF:-1,group-title="GRAN HERMANO VIP" ES - Gran Hermano VIP 24h
+http://totalplay.site:80/silvana1941/aTxg5c4TuV/426866.m3u8
 
 TNT
 
