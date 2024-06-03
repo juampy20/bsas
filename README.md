@@ -1393,10 +1393,18 @@ CINECANAL
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="🛟 CINE", 125 CINECANAL (🇦🇷) fw
 https://cdn.cvattv.com.ar/live/c3eds/CinecanalHD/SA_Live_dash_enc_2A/CinecanalHD.mpd
 
-#EXTINF:-1 tvg-logo="-" group-title="GRAN HERMANO", GRAN HERMANO VIP
-http://totalplay.site:80/silvana1941/aTxg5c4TuV/426867.m3u8
-#EXTINF:-1 tvg-logo="-" group-title="GRAN HERMANO", GRAN HERMANO VIP 2
-http://totalplay.site:80/silvana1941/aTxg5c4TuV/426866.m3u8
+
+
+#EXTINF:-1 tvg-logo="-" group-title="GRAN HERMANO", GRAN HERMANO 24hs
+http://totalplay.site:80/silvana1941/aTxg5c4TuV/443129.m3u8
+#EXTINF:-1 tvg-logo="-" group-title="GRAN HERMANO", GRAN HERMANO camara 1
+http://totalplay.site:80/silvana1941/aTxg5c4TuV/443128.m3u8
+#EXTINF:-1 tvg-logo="-" group-title="GRAN HERMANO", GRAN HERMANO camara 2
+http://totalplay.site:80/silvana1941/aTxg5c4TuV/443127.m3u8
+#EXTINF:-1 tvg-logo="-" group-title="GRAN HERMANO", GRAN HERMANO camara 3
+http://totalplay.site:80/silvana1941/aTxg5c4TuV/443126.m3u8
+
+
 
 TNT
 
