@@ -1,8 +1,8 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="-" group-title=musica youtube",cumbias
-https://rr1---sn-jvanxjvg-jvge.googlevideo.com/videoplayback?expire=1717876998&ei=pmRkZqC8M--MobIPzIOa0Ac&ip=45.7.209.199&id=o-APe2cznpfwhktpG_CqSZAYG5caM6x6hDyy16pnl_YrLW&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&mh=Fn&mm=31%2C29&mn=sn-jvanxjvg-jvge%2Csn-x1xe7n76&ms=au%2Crdu&mv=m&mvi=1&pl=24&ctier=L&initcwndbps=637500&siu=1&spc=UWF9f0yTvjC05Vsavsy_lVn7FnQL_jiXwag3QTn14_yMp-zozTBQgp7xrqwq6JU&svpuc=1&ns=8DwQvnSqq65OoxN9ycwbLgEQ&sabr=1&rqh=1&mt=1717855044&fvip=1&keepalive=yes&c=WEB&smc=1&n=IBdsJDNAGUE7UQ&sparams=expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Cctier%2Csiu%2Cspc%2Csvpuc%2Cns%2Csabr%2Crqh&sig=AJfQdSswRQIhAPcmGt8VvyhxruByZwCGRjX18T6oke4-THy61xpN2T6VAiAp_t6xTS9XKBXAKWvoIEeACdIcQ-gti_Q2CiIht5uJhg%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AHlkHjAwRQIgDQ8geotzSj18wKMPRtJnZ-V_5khtr887vuAyyFuKhWoCIQC-aIbOpnfz9YVVQRz8lv0fJd2z5coY0G5oWGkE41nEoA%3D%3D&cpn=g9cA9-ZbpfScUGmy&cver=2.20240606.06.00&rn=2
+#EXTINF:-1 tvg-logo="-" group-title="musica youtube",cumbias
+https://www.youtube.com/watch?v=f-WFYtcl3qE&ab_channel=GarraRecords
 
 --------------peru--------
 -------------------------
