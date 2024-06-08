@@ -16,6 +16,9 @@ https://www.youtube.com/watch?v=CSv_BKuMYRg
 #EXTINF:-1 tvg-logo="-" group-title="musica youtube",leo matioli
 https://www.youtube.com/watch?v=d9Y6whstxIA
 
+#EXTINF:-1 tvg-logo="-" group-title="musica youtube",la konga, emanero etc
+https://www.youtube.com/watch?v=9qnkmsFBkh0
+
 --------------peru--------
 -------------------------
 
