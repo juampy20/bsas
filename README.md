@@ -4,6 +4,13 @@
 #EXTINF:-1 tvg-logo="-" group-title="musica youtube",cumbias
 https://www.youtube.com/watch?v=f-WFYtcl3qE&ab_channel=GarraRecords
 
+#EXTINF:-1 tvg-logo="-" group-title="musica youtube",cumbias 2
+https://www.youtube.com/watch?v=1_71HQycD6w
+
+#EXTINF:-1 tvg-logo="-" group-title="musica youtube",cumbias 3
+https://www.youtube.com/watch?v=l7K90L-NtqA
+
+
 --------------peru--------
 -------------------------
 
