@@ -10,6 +10,11 @@ https://www.youtube.com/watch?v=1_71HQycD6w
 #EXTINF:-1 tvg-logo="-" group-title="musica youtube",cumbias 3
 https://www.youtube.com/watch?v=l7K90L-NtqA
 
+#EXTINF:-1 tvg-logo="-" group-title="musica youtube",cumbias los palmeras
+https://www.youtube.com/watch?v=CSv_BKuMYRg
+
+#EXTINF:-1 tvg-logo="-" group-title="musica youtube",leo matioli
+https://www.youtube.com/watch?v=d9Y6whstxIA
 
 --------------peru--------
 -------------------------
