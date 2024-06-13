@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:-1  group-logo="-"  tvg-logo="-" group-title="MUSICA PARA BAILAR", ENGANCHADOS CUMBIA SANTAFESINA 1
+https://stream.kick.com/ivs/v1/196233775518/PYxhleEAVCfA/2024/6/13/15/42/VCuVwlncoMhq/media/hls/master.m3u8
+
+
 
 #EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/3112/3112946.png"  tvg-logo="https://www.shutterstock.com/image-vector/dhaka-bangladesh-october-06-2023-260nw-2371494987.jpg" group-title="Canales Copa America", 13 Chile
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
