@@ -22,7 +22,8 @@ https://stream.kick.com/ivs/v1/196233775518/PYxhleEAVCfA/2024/6/14/0/39/qH6rChcw
 https://stream.kick.com/ivs/v1/196233775518/PYxhleEAVCfA/2024/6/14/12/20/xGEx3kygwYyP/media/hls/master.m3u8
 
 
-
+#EXTINF:-1  group-logo="https://payload.cargocollective.com/1/5/180563/7550085/alta-cumbia_o.png"  tvg-logo="https://payload.cargocollective.com/1/5/180563/7550085/alta-cumbia_o.png" group-title="MUSICA PARA BAILAR", RODRIGO TAPARI
+https://stream.kick.com/ivs/v1/196233775518/PYxhleEAVCfA/2024/6/14/16/52/sVpQaOXKp3Um/media/hls/master.m3u8
 
 
 #EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/3112/3112946.png"  tvg-logo="https://www.shutterstock.com/image-vector/dhaka-bangladesh-october-06-2023-260nw-2371494987.jpg" group-title="Canales Copa America", 13 Chile
